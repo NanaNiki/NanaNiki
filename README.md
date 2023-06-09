@@ -1,5 +1,5 @@
 # About Me:
-🌱 Fresh Baby Front End Developer<br>🌬️ Sending my portfolio and CV's in batches &nbsp;&nbsp;&&&nbsp;&nbsp; doing rituals to get hired 🧙‍♂️<br>🦺 Currently working on polish translation of my web app:<a href="https://emotions-assistant.netlify.app/" target="_blank"><b>&emsp;Emotions Assistant</b></a><br>🤝 Open to collaborations and support talks <br>🎧 Love music, nature and ramen 🍜<br><br>
+🌱 Fresh Baby Front End Developer<br>🌬️ Sending my portfolio and CV's in batches &nbsp;&nbsp;&&&nbsp;&nbsp; doing rituals to get hired 🧙‍♂️<br>🦺 Currently working on polish translation of my web app:<a href="https://emotions-assistant.netlify.app/" target="_blank" rel="noreferrer noopener"><b>&emsp;Emotions Assistant</b></a><br>🤝 Open to collaborations and support talks <br>🎧 Love music, nature and ramen 🍜<br><br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nixieniki&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0e247c&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nixieniki&redirect=true)
 
 
