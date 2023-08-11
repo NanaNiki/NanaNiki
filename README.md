@@ -1,5 +1,5 @@
 # About Me:
-🌱 Fresh Baby Front End Developer<br>🌬️ Sending my <a href="https://nicol-wesolowska.com/#projects">portfolio<a/> and CV's in batches &nbsp;&nbsp;&&&nbsp;&nbsp; doing rituals to get hired 🧙‍♂️<br>🦺 Currently learing Webflow, catching up with TypeScript and staying strong :)
+🌱 Interdisciplinary creative, learing and coding Front End!<br>🌬️ Sending my <a href="https://nicol-wesolowska.com/#projects">portfolio<a/> and CV's in batches &nbsp;&nbsp;&&&nbsp;&nbsp; doing rituals to get hired 🧙‍♂️<br>🦺 Currently looking for job in creative sectors of tech field <3
 <br>🤝 Open to collaborations and support talks <br>🎧 Love music, nature and ramen 🍜<br><br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nixieniki&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0e247c&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nixieniki&redirect=true)
 
